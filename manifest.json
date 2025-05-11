@@ -1,0 +1,12 @@
+{
+  "name": "move-north-widget",
+  "label": "Move North Widget",
+  "platform": "EXB",
+  "version": "1.0.0",
+  "exbVersion": "1.12.0",
+  "author": "Your Name",
+  "description": "Move map 100 meters north every button click",
+  "properties": {},
+  "useMapWidget": true,
+  "dependency": ["jimu-arcgis"]
+}
